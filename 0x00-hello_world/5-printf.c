@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main -print a c program using printf
+ * main - print a c program using printf
  *
- * Reurn: 0
-*/
+ * Return: 0
+*i/
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
