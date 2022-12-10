@@ -3,20 +3,13 @@ nclude <stdio.h>
 
 
 /**
- *
- *  * main - program that prints all possible combinations of
- *
- *   * two two-digit
- *
- *    * The numbers should range from 0 to 99
- *
- *     * Numbers must be separated by ,followed by a space
- *
- *      * All numbers should be printed with two digits. 1 should be printed as 01
- *
- *       * Return: 0
- *
- *        */
+ * main - program that prints all possible combinations of
+ * two two-digit
+ * The numbers should range from 0 to 99
+ * Numbers must be separated by ,followed by a space
+ * All numbers should be printed with two digits. 1 should be printed as 01
+ * Return: 0
+*/
 
 
 
