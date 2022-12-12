@@ -39,9 +39,8 @@ int main(void)
 
 			{
 
-				putchar(com);
-
-				putchar(32);
+			putchar(com);
+			putchar(32);
 
 			}
 
