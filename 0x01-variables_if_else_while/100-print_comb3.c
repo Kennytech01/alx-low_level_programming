@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - program that prints the numbers from 00 to 99
  * Numbers must be separated by ,followed by a space
@@ -28,8 +29,8 @@ int main(void)
 
 		putchar(n1);
 		putchar(n2);
+        if(n1 != 57 || n2 != 57)
 
-                if (n1 != 57 || n2 != 57)
 		{
 
 			putchar(com);
