@@ -8,7 +8,6 @@
  */
 
 void puts2(char *str)
-
 {
 	int lingi = 0;
 	int t = 0;
@@ -30,6 +29,8 @@ void puts2(char *str)
 	}
 	}
 _putchar('\n');
+
+
 }
 
 
