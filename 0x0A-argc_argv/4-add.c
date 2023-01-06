@@ -31,6 +31,7 @@ int check_num(char *str)
 	 *@argv: Arguments
 	 *Return: Always 0 (Success)
 	 */
+
 int main(int argc, char *argv[])
 {
 	/*Declaring variables*/
